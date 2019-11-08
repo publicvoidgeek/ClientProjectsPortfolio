@@ -7,7 +7,7 @@ This app was designed and made for the local community and followers of Guruji. 
 
 ### [Available on App Store](https://apps.apple.com/us/app/jai-guru-ji/id1214655069)
 
-![GuruJi App](IMG_6517.PNG)
+![GuruJi App](IMG_65172.PNG)
 
 ## 2. FLAPPY VOICE
 Its a remake of famous tap game Flappy Bird however with a little change. Instead of tapping the screen the bird will react to user's voice, tone and pitch. Higher the pitch higher will be the jump of the bird. 
