@@ -21,7 +21,7 @@ This app allows users to take picture and convert them into a great piece of art
 
 ### [Available on App Store](https://apps.apple.com/us/app/trianglify-create-polygon-art/id1297982647)
 
-![Trianglify App](230x0w.JPG)
+![Trianglify App](230x0w.jpg)
 
 ## 4. HOME RICE CHEF
 This is a Chef/Kitchen version of the food ordering app where the kitchen/Restaurant owner receives the order, processes them and marks the in preparation, out for delivery etc. Owners can upload their own menu with their own pricing and photos plus it allows owners to find photos of their menu item through unsplash using an api. 
